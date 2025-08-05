@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "ActionPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "StateTree",
 			"Enabled": true
 		},
